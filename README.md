@@ -1,6 +1,7 @@
 # Plane
 Proyecto para **Interfaces Inteligentes**. Universidad de La Laguna.
 
+Enlace al código fuente: [https://github.com/davafons/Plane](https://github.com/davafons/Plane)
 ## Guía de uso
 
 **Menú del juego**:
